@@ -1,4 +1,4 @@
-# 2019-02-25 21：44
+# 2019-03-02 15:07
 
 
 127.0.0.1 localhost
@@ -10,7 +10,7 @@
 127.0.0.1 45.55.255.55
 #phpstorm
 0.0.0.0 account.jetbrains.com
-# Go Hosts
+#hosts
 122.114.75.142 www.google.com
 122.114.75.142 google.com
 122.114.75.142 gcr.io
@@ -36902,30 +36902,30 @@
 203.78.36.36 pxlclnvwe-a.akamaihd.net
 203.78.36.36 pxlgnpgecom-a.akamaihd.net
 203.78.36.36 pxlsfvwe-a.akamaihd.net
-122.114.78.203 tumblr.co
-122.114.78.203 tumblr.com
-122.114.78.203 www.tumblr.com
-122.114.78.203 a.tumblr.com
-122.114.78.203 api.tumblr.com
-122.114.78.203 t.umblr.com
-122.114.78.203 assets.tumblr.com
-122.114.78.203 www-http2.tumblr.com
-122.114.78.203 api-http2.tumblr.com
-122.114.78.203 experimentr.srvcs.tumblr.com
-122.114.78.203 cynicallys.tumblr.com
-122.114.78.203 mx.tumblr.com
-122.114.78.203 px.srvcs.tumblr.com
-122.114.78.203 saber.srvcs.tumblr.com
-122.114.78.203 ls.srvcs.tumblr.com
-122.114.78.203 video.tumblr.com
-122.114.78.203 secure.static.tumblr.com
-122.114.78.203 secure.assets.tumblr.com
-122.114.78.203 static.tumblr.com
-122.114.78.203 v.tumblr.com
-122.114.78.203 vt.tumblr.com
-122.114.78.203 vtt.tumblr.com
-122.114.78.203 platform.tumblr.com
-122.114.78.203 media.tumblr.com
+122.114.75.142 tumblr.co
+122.114.75.142 tumblr.com
+122.114.75.142 www.tumblr.com
+122.114.75.142 a.tumblr.com
+122.114.75.142 api.tumblr.com
+122.114.75.142 t.umblr.com
+122.114.75.142 assets.tumblr.com
+122.114.75.142 www-http2.tumblr.com
+122.114.75.142 api-http2.tumblr.com
+122.114.75.142 experimentr.srvcs.tumblr.com
+122.114.75.142 cynicallys.tumblr.com
+122.114.75.142 mx.tumblr.com
+122.114.75.142 px.srvcs.tumblr.com
+122.114.75.142 saber.srvcs.tumblr.com
+122.114.75.142 ls.srvcs.tumblr.com
+122.114.75.142 video.tumblr.com
+122.114.75.142 secure.static.tumblr.com
+122.114.75.142 secure.assets.tumblr.com
+122.114.75.142 static.tumblr.com
+122.114.75.142 v.tumblr.com
+122.114.75.142 vt.tumblr.com
+122.114.75.142 vtt.tumblr.com
+122.114.75.142 platform.tumblr.com
+122.114.75.142 media.tumblr.com
 122.114.75.142 vt.media.tumblr.com
 119.161.11.99 20.media.tumblr.com
 119.161.11.99 21.media.tumblr.com
@@ -36973,7 +36973,7 @@
 119.161.11.99 63.media.tumblr.com
 119.161.11.99 64.media.tumblr.com
 119.161.11.99 65.media.tumblr.com
-122.114.78.203 66.media.tumblr.com
+122.114.75.142 66.media.tumblr.com
 119.161.11.99 67.media.tumblr.com
 119.161.11.99 68.media.tumblr.com
 119.161.11.99 69.media.tumblr.com
@@ -36985,7 +36985,7 @@
 119.161.11.99 75.media.tumblr.com
 119.161.11.99 76.media.tumblr.com
 119.161.11.99 77.media.tumblr.com
-122.114.78.203 78.media.tumblr.com
+122.114.75.142 78.media.tumblr.com
 119.161.11.99 79.media.tumblr.com
 119.161.11.99 80.media.tumblr.com
 119.161.11.99 81.media.tumblr.com
@@ -37007,9 +37007,9 @@
 119.161.11.99 97.media.tumblr.com
 119.161.11.99 98.media.tumblr.com
 119.161.11.99 99.media.tumblr.com
-122.114.78.203 *.tumblr.com
-122.114.78.203 *.umblr.com
-122.114.78.203 *.tumblr.co
+122.114.75.142 *.tumblr.com
+122.114.75.142 *.umblr.com
+122.114.75.142 *.tumblr.co
 122.114.75.142 instagram.com
 122.114.75.142 www.instagram.com
 122.114.75.142 i.instagram.com
@@ -37246,8 +37246,8 @@
 198.35.26.112 upload.wikimedia.org
 208.80.154.224 en.wikipedia.org
 208.80.154.224 eu.wikipedia.org
-122.114.78.203 zh.wikipedia.org
-122.114.78.203 zh.m.wikipedia.org
+122.114.75.142 zh.wikipedia.org
+122.114.75.142 zh.m.wikipedia.org
 198.35.26.96 wuu.wikipedia.org
 198.35.26.96 zh-yue.wikipedia.org
 198.35.26.96 login.wikimedia.org
