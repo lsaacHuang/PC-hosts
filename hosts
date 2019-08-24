@@ -10,7 +10,8 @@
 127.0.0.1 45.55.41.223
 #phpstorm
 0.0.0.0 account.jetbrains.com
-#hosts
+
+# Go Hosts
 122.114.75.25 www.google.com
 122.114.75.25 google.com
 122.114.75.25 gcr.io
